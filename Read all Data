@@ -1,3 +1,0 @@
-**To Read car Data**
-
-select * from car_details;
